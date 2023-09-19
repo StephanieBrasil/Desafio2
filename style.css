@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilização da header */
+header {
+    font-size: 18px;
+    /*border: solid black; */
+    background-color: rgb(236, 83, 176);
+    height: 50px;
+    padding-left: 50px;
+}
+
+body {
+    background-color: rgb(241, 240, 232);
+}
+ 
+/* nav {
+  border: solid red; 
+   padding-left: 50px; 
+}*/
+
+/* ul {
+  border: solid white; 
+  padding-left: 30px;
+} */
+
+li {
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 10px;
+    color: white;
+    /* padding-top: 10px; */
+}
+/* Estilização do main */
+
+img {
+    width: 250px;
+    border: solid rgb(255, 158, 170);
+}
+
+.loja {
+    border: rgb(255, 158, 170);
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 10px;
+    background-color: rgb(168, 223, 142);
+    color: black;
+}
+
+form {
+    margin-left: 10px;
+}
+
+/* Estilização do footer */ 
+
+h2 {
+    font-size: 22px;
+}
+
+footer {
+    background-color: rgb(236, 83, 176);
+    color: white; 
+}
+
+
+
